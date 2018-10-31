@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_TlGeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74337642
+_cell_length_b   9.26317690
+_cell_length_c   14.53127431
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlGeS2
+_chemical_formula_sum   'Tl8 Ge8 S16'
+_cell_volume   907.69733843
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S1  1  0.004921  0.644349  0.654426  1
+  S  S2  1  0.004921  0.144349  0.845574  1
+  S  S3  1  0.504921  0.855651  0.154426  1
+  S  S4  1  0.495079  0.644349  0.654426  1
+  S  S5  1  0.995079  0.355651  0.345574  1
+  S  S6  1  0.995079  0.855651  0.154426  1
+  S  S7  1  0.495079  0.144349  0.845574  1
+  S  S8  1  0.504921  0.355651  0.345574  1
+  S  S9  1  0.750000  0.978276  0.586795  1
+  S  S10  1  0.250000  0.021724  0.413205  1
+  S  S11  1  0.750000  0.478276  0.913205  1
+  S  S12  1  0.250000  0.828949  0.925740  1
+  S  S13  1  0.750000  0.671051  0.425740  1
+  S  S14  1  0.250000  0.328949  0.574260  1
+  S  S15  1  0.750000  0.171051  0.074260  1
+  S  S16  1  0.250000  0.521724  0.086795  1
+  Ge  Ge17  1  0.250000  0.084269  0.957165  1
+  Ge  Ge18  1  0.250000  0.756401  0.073181  1
+  Ge  Ge19  1  0.750000  0.243599  0.926819  1
+  Ge  Ge20  1  0.250000  0.256401  0.426819  1
+  Ge  Ge21  1  0.750000  0.743599  0.573181  1
+  Ge  Ge22  1  0.250000  0.584269  0.542835  1
+  Ge  Ge23  1  0.750000  0.415731  0.457165  1
+  Ge  Ge24  1  0.750000  0.915731  0.042835  1
+  Tl  Tl25  1  0.750000  0.858615  0.818289  1
+  Tl  Tl26  1  0.250000  0.141385  0.181711  1
+  Tl  Tl27  1  0.750000  0.358615  0.681711  1
+  Tl  Tl28  1  0.250000  0.641385  0.318289  1
+  Tl  Tl29  1  0.750000  0.516907  0.122718  1
+  Tl  Tl30  1  0.250000  0.483093  0.877282  1
+  Tl  Tl31  1  0.750000  0.016907  0.377282  1
+  Tl  Tl32  1  0.250000  0.983093  0.622718  1

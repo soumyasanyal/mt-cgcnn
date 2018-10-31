@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Bi3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33119195
+_cell_length_b   8.96464364
+_cell_length_c   11.54035686
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi3Rh
+_chemical_formula_sum   'Bi12 Rh4'
+_cell_volume   448.08427194
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi1  1  0.250000  0.399575  0.589511  1
+  Bi  Bi2  1  0.250000  0.802920  0.613429  1
+  Bi  Bi3  1  0.750000  0.096968  0.677101  1
+  Bi  Bi4  1  0.750000  0.596968  0.822899  1
+  Bi  Bi5  1  0.750000  0.100425  0.089511  1
+  Bi  Bi6  1  0.250000  0.403032  0.177101  1
+  Bi  Bi7  1  0.250000  0.302920  0.886571  1
+  Bi  Bi8  1  0.250000  0.899575  0.910489  1
+  Bi  Bi9  1  0.250000  0.903032  0.322899  1
+  Bi  Bi10  1  0.750000  0.697080  0.113429  1
+  Bi  Bi11  1  0.750000  0.600425  0.410489  1
+  Bi  Bi12  1  0.750000  0.197080  0.386571  1
+  Rh  Rh13  1  0.250000  0.601962  0.980362  1
+  Rh  Rh14  1  0.250000  0.101962  0.519638  1
+  Rh  Rh15  1  0.750000  0.898038  0.480362  1
+  Rh  Rh16  1  0.750000  0.398038  0.019638  1

@@ -1,0 +1,5 @@
+matplotlib==2.2.3
+torch==0.4.1
+tqdm==4.26.0
+numpy==1.15.1
+pymatgen==2018.9.12

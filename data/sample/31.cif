@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Gd2Ru2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28431058
+_cell_length_b   7.28430985
+_cell_length_c   7.28431050
+_cell_angle_alpha   60.00000168
+_cell_angle_beta   60.00000500
+_cell_angle_gamma   60.00000272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Ru2O7
+_chemical_formula_sum   'Gd4 Ru4 O14'
+_cell_volume   273.30674394
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd1  1  0.500000  0.500000  0.500000  1
+  Gd  Gd2  1  0.500000  0.500000  0.000000  1
+  Gd  Gd3  1  0.000000  0.500000  0.500000  1
+  Gd  Gd4  1  0.500000  0.000000  0.500000  1
+  Ru  Ru5  1  0.000000  0.000000  0.000000  1
+  Ru  Ru6  1  0.000000  0.000000  0.500000  1
+  Ru  Ru7  1  0.500000  0.000000  0.000000  1
+  Ru  Ru8  1  0.000000  0.500000  0.000000  1
+  O  O9  1  0.917648  0.332352  0.332352  1
+  O  O10  1  0.667648  0.667648  0.082352  1
+  O  O11  1  0.082352  0.082352  0.667648  1
+  O  O12  1  0.667648  0.082352  0.082352  1
+  O  O13  1  0.667648  0.082352  0.667648  1
+  O  O14  1  0.082352  0.667648  0.082352  1
+  O  O15  1  0.332352  0.917648  0.332352  1
+  O  O16  1  0.332352  0.332352  0.917648  1
+  O  O17  1  0.917648  0.917648  0.332352  1
+  O  O18  1  0.917648  0.332352  0.917648  1
+  O  O19  1  0.082352  0.667648  0.667648  1
+  O  O20  1  0.332352  0.917648  0.917648  1
+  O  O21  1  0.375000  0.375000  0.375000  1
+  O  O22  1  0.625000  0.625000  0.625000  1
