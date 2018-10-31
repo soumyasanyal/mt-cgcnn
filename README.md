@@ -1,6 +1,6 @@
 # Mluti Task Crystal Graph Convolutional Neural Networks (MT-CGCNN)
 
-This repository implements the Multi Task Crystal Graph Convolutional Neural Networks (MT-CGCNN) that takes as input a crystal structure and predicts multiple material properties in a multi-task fashion.
+This repository implements the Multi Task Crystal Graph Convolutional Neural Networks (MT-CGCNN) that takes as input a crystal structure and predicts multiple material properties in a multi-task setup.
 
 The package provides code to train a MT-CGCNN model with a customized dataset. This is built on an existing model [CGCNN](https://github.com/txie-93/cgcnn) which the authors suggest to checkout as well.
 
@@ -10,7 +10,6 @@ The package provides code to train a MT-CGCNN model with a customized dataset. T
 - [Usage](#usage)
   - [Define a customized dataset](#define-a-customized-dataset)
   - [Train a MT-CGCNN model](#train-a-cgcnn-model)
-- [Authors](#authors)
 - [License](#license)
 
 ##  Prerequisites
@@ -25,8 +24,8 @@ pip install -r requirements.txt
 
 ### Define a customized dataset 
 
-To define a customized dataset, you need a list of CIFs for which you wish to learn the model.
-In this work, we use data from [Materials Project](https://www.materialsproject.org/). To generate the exact data requirements for training this model using Materials Project, you may use the file `utils.py`. In this file, you need to provide the API key to access Materials Project (available after logging into the website), the folder where you wish to save the data, the list of mpids (Materials Project IDs) for which data needs to be saved and a list of properties for which the model has to be trained. To reproduce the results for this paper, you should use the `mpids_full.csv` as the list of mpids for which data is downloaded.
+To define a customized dataset, you need a list of CIFs for which you want to train the model.
+In this work, we use data from [Materials Project](https://www.materialsproject.org/). To generate the data for training this model using Materials Project, you may use the file `utils.py`. In this file, you need to provide the API key to access Materials Project (available after logging into the website), the folder where you wish to save the data, the list of mpids (Materials Project IDs) for which data needs to be saved and a list of properties for which the model has to be trained. To reproduce the results for this paper, you should use the `mpids_full.csv` as the list of mpids for which data is downloaded. Also, you may define your own custom dataset for training the model.
 
 A customized dataset stored in a folder `root_dir` will have the following files:
 
