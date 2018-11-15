@@ -1,6 +1,6 @@
 # Mluti Task Crystal Graph Convolutional Neural Networks (MT-CGCNN)
 
-This repository implements the Multi Task Crystal Graph Convolutional Neural Networks (MT-CGCNN) that takes as input a crystal structure and predicts multiple material properties in a multi-task setup.
+This repository implements the Multi Task Crystal Graph Convolutional Neural Networks (MT-CGCNN) introduced in our paper titled ["MT-CGCNN: Integrating Crystal Graph Convolutional Neural Network with Multitask Learning for Material Property Prediction"](https://arxiv.org/abs/1811.05660). The model that takes as input a crystal structure and predicts multiple material properties in a multi-task setup.
 
 The package provides code to train a MT-CGCNN model with a customized dataset. This is built on an existing model [CGCNN](https://github.com/txie-93/cgcnn) which the authors suggest to checkout as well.
 
