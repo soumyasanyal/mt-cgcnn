@@ -81,7 +81,7 @@ MT-CGCNN is released under the MIT License.
 Please consider citing our paper if you use this code in your work
 ```
 @article{sanyal2018mt,
-  title={MT-CGCNN: Integrating Crystal Graph Convolutional Neural Network with Multitask Learning for Material Property Prediction},
+  title={{MT-CGCNN}: Integrating Crystal Graph Convolutional Neural Network with Multitask Learning for Material Property Prediction},
   author={Sanyal, Soumya and Balachandran, Janakiraman and Yadati, Naganand and Kumar, Abhishek and Rajagopalan, Padmini and Sanyal, Suchismita and Talukdar, Partha},
   journal={arXiv preprint arXiv:1811.05660},
   year={2018}
