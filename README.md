@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mt-cgcnn-integrating-crystal-graph/band-gap-on-materials-project)](https://paperswithcode.com/sota/band-gap-on-materials-project?p=mt-cgcnn-integrating-crystal-graph)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mt-cgcnn-integrating-crystal-graph/formation-energy-on-materials-project)](https://paperswithcode.com/sota/formation-energy-on-materials-project?p=mt-cgcnn-integrating-crystal-graph)
+
 # Multi Task Crystal Graph Convolutional Neural Networks (MT-CGCNN)
 
 This repository implements the Multi Task Crystal Graph Convolutional Neural Networks (MT-CGCNN) introduced in our paper titled "[MT-CGCNN: Integrating Crystal Graph Convolutional Neural Network with Multitask Learning for Material Property Prediction](https://arxiv.org/abs/1811.05660)". The model that takes as input a crystal structure and predicts multiple material properties in a multi-task setup.
